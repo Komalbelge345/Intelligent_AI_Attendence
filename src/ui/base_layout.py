@@ -48,15 +48,17 @@ def style_base_layout():
                 margin-bottom:0rem !important;
                 
             }
-            h3,h4,p{
-                font-family:'outfit',sans-serif ;
-            }
+           
             h2{
                 font-family:'Climate Crisis',sans-serif !important;
                 font-size:2rem !important;
                 line-height:0.9 !important;
                 margin-bottom:0rem !important;
                  
+            }
+
+            h3,h4,p{
+                font-family:'outfit',sans-serif ;
             }
             button{
                 border-radius:1.5rem !important;
